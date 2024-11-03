@@ -24,7 +24,7 @@ Clone the repository to your local machine with the following command:
 
 ```bash
 git clone https://github.com/SamirJsx/PersonManagement---Simple-CRUD-Using-ADO.NET.git
-cd PersonManagement
+cd PersonManagement---Simple-CRUD-Using-ADO.NET/PersonManagement
 ```
 
 ### 2. Restore Dependencies
@@ -52,6 +52,7 @@ This command compiles the project and generates output in the `bin` directory. I
 Once the project is built, you can run the application with the following command:
 
 ```bash
+cd ConsoleApp
 dotnet run
 ```
 
