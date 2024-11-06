@@ -11,6 +11,7 @@ class Program
 
         while (true)
         {
+            Console.Clear();
             Console.WriteLine(new String('-', 43));
             Console.WriteLine("| Welcome to my Person System Management! |");
             Console.WriteLine(new String('-', 43));
