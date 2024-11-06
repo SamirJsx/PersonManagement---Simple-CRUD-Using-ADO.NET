@@ -56,7 +56,7 @@ cd ConsoleApp
 dotnet run
 ```
 
-This command starts the application and runs it in your terminal. If your application is a console app, you will see output in the terminal. For web applications, it may provide a URL where you can access the app in your browser.
+This command starts the application and runs it in your terminal. You will see output in the terminal.
 
 ### 5. Usage
 
